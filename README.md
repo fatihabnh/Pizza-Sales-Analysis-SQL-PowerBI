@@ -9,7 +9,7 @@ pricing information, and customer purchasing patterns.
 | Column | Description |
 |---|---|
 | pizza_id | Unique identifier for each pizza record |
-| order_id | Unique identifier for each order |
+| order_id | Unique identifier for one particular person |
 | pizza_name_id | Short identifier for the pizza type and size |
 | quantity | Number of pizzas ordered |
 | order_date | Date when the order was placed |
